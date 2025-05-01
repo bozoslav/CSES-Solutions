@@ -7,4 +7,4 @@ List of my solutions of the cses.fi problemset in c++. More will be added soon.
 | Introductory Problems |     19/19     |
 | Sorting and Searching |     34/35     |
 | Dynamic Programming   |     19/19     |
-| **Total**             |  **53/300**   |
+| **Total**             |  **72/300**   |
