@@ -4,7 +4,7 @@ List of my solutions of the cses.fi problemset in c++. More will be added soon.
 
 | Problem Type            | Number Solved |
 | ----------------------- | :-----------: |
-| Introductory Problems   |     19/24     |
+| Introductory Problems   |     20/24     |
 | Sorting and Searching   |     33/35     |
 | Dynamic Programming     |     19/23     |
 | Graph Algorithms        |     23/36     |
@@ -15,7 +15,7 @@ List of my solutions of the cses.fi problemset in c++. More will be added soon.
 | Geometry                |     4/16      |
 | Advanced Techniques     |     5/25      |
 | Sliding Window Problems |     2/11      |
-| Interactive Problems    |      0/6      |
+| Interactive Problems    |      1/6      |
 | Bitwise Operations      |     0/11      |
 | Construction Problems   |      0/8      |
 | Advanced Graph Problems |     0/28      |
